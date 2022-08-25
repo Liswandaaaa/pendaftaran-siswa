@@ -1,0 +1,9 @@
+.login {
+    background-color: rgb(110, 155, 238);
+    border: 5px solid rgb(104, 150, 236);
+    margin: 15px 30rem;
+    padding: 25px 15px;
+    position: relative;
+    top: 2cm;
+    opacity: 0.8;
+}
